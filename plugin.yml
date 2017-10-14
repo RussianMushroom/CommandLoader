@@ -1,0 +1,5 @@
+name: CommandLoader
+description: Loads commands from a config file upon start
+version: 1.2.0
+main: io.github.RussianMushroom.CommandLoader.CommandLoader
+authors: ["RussianMushroom"]
